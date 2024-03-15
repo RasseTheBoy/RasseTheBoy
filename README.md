@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rassetheboy&label=Profile%20views&color=0e75b6&style=flat" alt="rassetheboy" /> </p>
 
-- 🔭 I’m currently working on **MetroJoe**
+- 🔭 I’m currently working on **MetroJoe; A mobile mars-rover like robot for Metropolia UAS**
 
 - 🌱 I’m currently learning **ROS2, Docker**
 
