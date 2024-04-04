@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MetroJoe; A mobile mars-rover like robot for Metropolia UAS**
 
-- 🌱 I’m currently learning **ROS2, Docker**
+- 🌱 I’m currently learning **ROS2, Docker and Modbus**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, ROS2**
 
 - 📫 How to reach me **rasmus.ohert@outlook.com**
 
