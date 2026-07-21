@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+    <img src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg">
 </p>
 
 <h1 align="center">Hi, I'm Rasmus Ohert</h1>
@@ -10,9 +10,9 @@
 </p>
 
 ### 🧩 About Me
-I'm an **Automation Engineering** student at Metropolia UAS, currently writing my thesis on:
+I'm an **Automation Engineering** student at Metropolia UAS, reently finished writing my thesis on:
 
-> **Implementation of an Open-Source Automation System**  
+> **Implementation of an Open-Source Automation System in an Industrial Setting**  
 > Using Raspberry Pi 4, Controllino MEGA, MQTT, Node-RED, and Industrial 5.0 principles.
 
 I spend a lot of time building local and self-hosted projects, experimenting with **Dockerized services**, **container networking**, and Linux-first workflows across servers and embedded devices.
@@ -22,7 +22,7 @@ I spend a lot of time building local and self-hosted projects, experimenting wit
 ### 🛠️ Technologies & Tools I Work With
 
 #### **Languages**
-🐍 Python (primary) • 🦀 Rust (learning/side projects) • Bash • SQL
+🐍 Python (primary) • 🦀 Rust (learning/side projects) • Bash (Arch/Ubuntu) • SQL (primarily PostgreSQL and SQLite)
 
 #### **Infrastructure / DevOps**
 🐳 Docker & Docker Compose • 🐧 Linux (Arch (btw)/Ubuntu servers) • NGINX reverse proxy  
@@ -34,7 +34,6 @@ Raspberry Pi • Controllino MEGA • Modbus RTU/TCP • MQTT-based telemetry
 ---
 
 ### 🔧 Current Focus
-- Finishing my thesis
 - Containerized tooling for home-lab / edge compute environments
 - Self-hosted automation, dashboards & monitoring
 - Improving Linux workflows and reliability (*because breaking your system is part of the fun* 😄)
